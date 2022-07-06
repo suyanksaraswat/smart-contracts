@@ -1,5 +1,7 @@
 # smart-contracts
 
+Minted 1000 NFT with ERC721A and its extensions at the same time with only 0.005eth !!!
+
 ### ERC1155 ###
 
     Contract Address-
