@@ -30,10 +30,10 @@ Minted 1000 NFT with ERC721A and its extensions at the same time with only 0.005
 
     i.
     Contract Address-
-    https://testnets.opensea.io/assets/rinkeby/0xe4ba5c8b84a27ec66822c8827f5b5a2cf1111ecb
+    https://rinkeby.etherscan.io/address/0xe4ba5c8b84a27ec66822c8827f5b5a2cf1111ecb
 
     Collection-
-    https://testnets.opensea.io/assets/rinkeby/0xe4ba5c8b84a27ec66822c8827f5b5a2cf1111ecb
+    https://testnets.opensea.io/collection/new-erc721aq
 
     ii.
     Contract Address-
